@@ -24,6 +24,7 @@ The following features is the minimal goal of this program.
 Extra features
 --------------
 
-3. Implement some bibliographic classification system, most likely **Universal Decimal Classification**.
-   3.1. Must be some of list and dropdown buttons that offer you the options to select the classificationof the text
-4. Use the DOI to retrieve metadata (worth?)
+3. Listen to directory changes to trigger the program.
+4. Implement some bibliographic classification system, most likely **Universal Decimal Classification**.
+   4.1. Must be some of list and dropdown buttons that offer you the options to select the classificationof the text
+5. Use the DOI to retrieve metadata (worth?)
